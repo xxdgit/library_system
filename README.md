@@ -1,0 +1,2 @@
+# library_system
+基于linux下QT平台完成的简单图书馆管理系统
